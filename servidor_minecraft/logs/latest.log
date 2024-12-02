@@ -398,3 +398,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Dec2024 18:45:48.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheProx_ lost connection: Disconnected
 [02Dec2024 18:45:48.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheProx_ left the game
 [02Dec2024 18:45:48.752] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheProx_
+[02Dec2024 18:54:49.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Dec2024 18:54:49.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Dec2024 18:54:49.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Dec2024 18:54:49.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Dec2024 18:54:50.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Dec2024 18:54:50.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Dec2024 18:54:50.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Dec2024 18:54:50.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[02Dec2024 18:54:50.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Dec2024 18:54:50.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Dec2024 18:54:50.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Dec2024 18:54:50.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[02Dec2024 18:54:50.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
