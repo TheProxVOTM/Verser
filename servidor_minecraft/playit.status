@@ -20845,3 +20845,21 @@ operating-joy.gl.at.ply.gg:1663 => 127.0.0.1:23068 (proto: Udp, port count: 1)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733190992862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+feb-rocket.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+operating-joy.gl.at.ply.gg:1663 => 127.0.0.1:23068 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733190995938 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+feb-rocket.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+operating-joy.gl.at.ply.gg:1663 => 127.0.0.1:23068 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733190999003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+feb-rocket.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+operating-joy.gl.at.ply.gg:1663 => 127.0.0.1:23068 (proto: Udp, port count: 1)
