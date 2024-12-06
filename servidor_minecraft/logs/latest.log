@@ -307,3 +307,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Dec2024 17:44:44.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Gave 64 [Cobblestone] to TheProx_]
 [06Dec2024 17:45:41.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Gave 64 [Torch] to TheProx_]
 [06Dec2024 17:47:16.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Applied enchantment Efficiency V to TheProx_'s item]
+[06Dec2024 17:49:28.510] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fbe50571-4a86-3eef-8b39-21b62746c1a0 timed out
+[06Dec2024 17:49:28.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player TheProx_
+[06Dec2024 17:49:28.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to TheProx_
+[06Dec2024 17:50:49.274] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[06Dec2024 17:50:50.278] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[06Dec2024 17:50:50.278] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheProx_ (fbe50571-4a86-3eef-8b39-21b62746c1a0) successfully connected to voice chat
+[06Dec2024 17:52:31.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheProx_ lost connection: Disconnected
+[06Dec2024 17:52:31.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheProx_ left the game
+[06Dec2024 17:52:31.107] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheProx_
+[06Dec2024 17:58:24.622] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@34118efe
+[06Dec2024 17:58:24.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheProx_[/127.217.101.179:51345] logged in with entity id 9511 at (600.1382008057869, -54.0, 1104.699999988079)
+[06Dec2024 17:58:24.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheProx_ joined the game
+[06Dec2024 17:58:24.720] [Server thread/INFO] [Jade/]: Syncing config to TheProx_ (fbe50571-4a86-3eef-8b39-21b62746c1a0)
+[06Dec2024 17:58:29.210] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheProx_ (18)
+[06Dec2024 17:58:29.211] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheProx_
