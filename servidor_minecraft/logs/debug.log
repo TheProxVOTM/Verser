@@ -7640,3 +7640,88 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Dec2024 18:38:50.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Dec2024 18:38:50.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Dec2024 18:38:55.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautist_25 has made the advancement [Stone Age]
+[06Dec2024 18:40:17.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautist_25 has made the advancement [Getting an Upgrade]
+[06Dec2024 18:40:59.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Teleported bautist_25 to TheProx_]
+[06Dec2024 18:41:17.650] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:17.651] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:19.647] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:19.647] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:20.848] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:20.848] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:21.648] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:21.648] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:23.648] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:23.648] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:24.849] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:24.849] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:25.648] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:25.649] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:27.650] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:27.650] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:29.647] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:29.647] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:31.647] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:31.648] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:41:34.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Teleported bautist_25 to TheProx_]
+[06Dec2024 18:41:47.948] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[06Dec2024 18:42:06.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautist_25 has made the advancement [Sweet Dreams]
+[06Dec2024 18:42:19.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautist_25 has made the advancement [First Day]
+[06Dec2024 18:43:50.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 18:43:50.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 18:48:27.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Teleported TheProx_ to bautist_25]
+[06Dec2024 18:48:46.734] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TheProx_: {disabled=false, disconnected=false, uuid=fbe50571-4a86-3eef-8b39-21b62746c1a0, name=TheProx_, group=null}
+[06Dec2024 18:48:47.566] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fbe50571-4a86-3eef-8b39-21b62746c1a0 timed out
+[06Dec2024 18:48:47.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player TheProx_
+[06Dec2024 18:48:47.567] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to TheProx_
+[06Dec2024 18:48:47.567] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with TheProx_
+[06Dec2024 18:48:47.567] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with TheProx_
+[06Dec2024 18:48:47.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to TheProx_
+[06Dec2024 18:48:47.568] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of fbe50571-4a86-3eef-8b39-21b62746c1a0 to disconnected: {disabled=false, disconnected=true, uuid=fbe50571-4a86-3eef-8b39-21b62746c1a0, name=TheProx_, group=null}
+[06Dec2024 18:48:48.181] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[06Dec2024 18:48:49.184] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[06Dec2024 18:48:49.184] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of TheProx_ to connected: {disabled=false, disconnected=false, uuid=fbe50571-4a86-3eef-8b39-21b62746c1a0, name=TheProx_, group=null}
+[06Dec2024 18:48:49.184] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheProx_ (fbe50571-4a86-3eef-8b39-21b62746c1a0) successfully connected to voice chat
+[06Dec2024 18:48:49.355] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TheProx_: {disabled=false, disconnected=false, uuid=fbe50571-4a86-3eef-8b39-21b62746c1a0, name=TheProx_, group=null}
+[06Dec2024 18:48:50.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 18:48:50.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 18:49:37.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bautist_25 lost connection: Disconnected
+[06Dec2024 18:49:37.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautist_25 left the game
+[06Dec2024 18:49:37.149] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of bautist_25
+[06Dec2024 18:49:37.149] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bautist_25
+[06Dec2024 18:50:37.302] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TheProx_: {disabled=false, disconnected=false, uuid=fbe50571-4a86-3eef-8b39-21b62746c1a0, name=TheProx_, group=null}
+[06Dec2024 18:50:38.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fbe50571-4a86-3eef-8b39-21b62746c1a0 timed out
+[06Dec2024 18:50:38.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player TheProx_
+[06Dec2024 18:50:38.150] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to TheProx_
+[06Dec2024 18:50:38.150] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with TheProx_
+[06Dec2024 18:50:38.150] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with TheProx_
+[06Dec2024 18:50:38.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to TheProx_
+[06Dec2024 18:50:38.150] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of fbe50571-4a86-3eef-8b39-21b62746c1a0 to disconnected: {disabled=false, disconnected=true, uuid=fbe50571-4a86-3eef-8b39-21b62746c1a0, name=TheProx_, group=null}
+[06Dec2024 18:50:40.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[06Dec2024 18:50:41.990] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[06Dec2024 18:50:41.990] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of TheProx_ to connected: {disabled=false, disconnected=false, uuid=fbe50571-4a86-3eef-8b39-21b62746c1a0, name=TheProx_, group=null}
+[06Dec2024 18:50:41.990] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheProx_ (fbe50571-4a86-3eef-8b39-21b62746c1a0) successfully connected to voice chat
+[06Dec2024 18:50:42.163] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of TheProx_: {disabled=false, disconnected=false, uuid=fbe50571-4a86-3eef-8b39-21b62746c1a0, name=TheProx_, group=null}
+[06Dec2024 18:52:46.969] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 50 messages to dispatch.
+[06Dec2024 18:52:47.004] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[06Dec2024 18:52:47.052] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[06Dec2024 18:52:47.103] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[06Dec2024 18:52:47.154] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[06Dec2024 18:52:47.179] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[06Dec2024 18:52:47.179] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[06Dec2024 18:52:47.179] [Netty Epoll Server IO #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@37674282[id=<null>,name=MeLlamanSebas,properties={},legacy=false] (/127.119.48.204:56165): Unexpected custom data from client
+[06Dec2024 18:52:47.202] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37674282[id=<null>,name=MeLlamanSebas,properties={},legacy=false] (/127.119.48.204:56165) lost connection: Unexpected custom data from client
+[06Dec2024 18:53:50.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 18:53:50.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 18:55:28.764] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 50 messages to dispatch.
+[06Dec2024 18:55:28.807] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[06Dec2024 18:55:28.854] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[06Dec2024 18:55:28.904] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[06Dec2024 18:55:28.956] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[06Dec2024 18:55:28.981] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[06Dec2024 18:55:28.981] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[06Dec2024 18:55:28.982] [Netty Epoll Server IO #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@73261c21[id=<null>,name=MeLlamanSebas,properties={},legacy=false] (/127.119.48.204:49405): Unexpected custom data from client
+[06Dec2024 18:55:29.008] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73261c21[id=<null>,name=MeLlamanSebas,properties={},legacy=false] (/127.119.48.204:49405) lost connection: Unexpected custom data from client
+[06Dec2024 18:57:33.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Set own game mode to Creative Mode]
+[06Dec2024 18:57:44.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Applied effect Regeneration to TheProx_]
+[06Dec2024 18:58:50.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 18:58:50.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

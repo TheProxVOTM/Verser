@@ -1,19 +1,7 @@
 {
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2024-12-06 18:36:28 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 18:38:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-06 18:38:50 +0000"
+      "log_spam_fixer": "2024-12-06 18:48:50 +0000"
     },
     "done": false
   },
@@ -23,9 +11,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
-      "in_water": "2024-12-06 18:35:40 +0000"
+      "has_planks": "2024-12-06 18:39:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 18:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 18:38:55 +0000"
     },
     "done": true
   },
@@ -35,15 +35,9 @@
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 18:38:50 +0000"
-    },
-    "done": false
-  },
-  "ags_day_counter:day_counter_root_advancement": {
-    "criteria": {
-      "day_counter_root_advancement": "2024-12-06 18:34:41 +0000"
+      "has_cobblestone": "2024-12-06 18:38:55 +0000"
     },
     "done": true
   },
@@ -55,25 +49,13 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 18:38:50 +0000"
+      "log_spam_fixer": "2024-12-06 18:48:50 +0000"
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 18:38:50 +0000"
-    },
-    "done": false
-  },
-  "mekanism:root": {
-    "criteria": {
-      "automatic": "2024-12-06 18:34:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2024-12-06 18:36:28 +0000"
+      "has_planks": "2024-12-06 18:39:53 +0000"
     },
     "done": true
   },
@@ -83,11 +65,35 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-06 18:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 18:38:55 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 18:38:50 +0000"
+      "log_spam_fixer": "2024-12-06 18:48:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 18:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-06 18:39:53 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -96,15 +102,45 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-06 18:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-06 18:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-06 18:36:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-06 18:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-06 18:39:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-06 18:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 18:38:55 +0000"
     },
     "done": true
   },
@@ -126,21 +162,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-06 18:40:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-06 18:35:40 +0000"
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/combat/stone_sword": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 18:38:50 +0000"
+      "has_cobblestone": "2024-12-06 18:38:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 18:38:50 +0000"
+      "log_spam_fixer": "2024-12-06 18:48:50 +0000"
     },
     "done": false
   },
@@ -150,9 +192,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 18:38:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
       "has_stick": "2024-12-06 18:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-06 18:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-06 18:39:53 +0000"
     },
     "done": true
   },
@@ -168,15 +228,213 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "crafting_table": "2024-12-06 18:35:37 +0000"
+      "has_stone_pickaxe": "2024-12-06 18:40:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-06 18:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 18:38:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-12-06 18:39:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-06 18:48:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-06 18:48:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-06 18:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-06 18:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-06 18:40:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2024-12-06 18:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 18:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 18:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 18:38:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-06 18:48:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-06 18:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 18:38:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-06 18:48:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 18:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-06 18:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 18:35:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-06 18:48:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-06 18:39:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 18:38:55 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:day_counter_root_advancement": {
+    "criteria": {
+      "day_counter_root_advancement": "2024-12-06 18:34:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-06 18:48:50 +0000"
+    },
+    "done": false
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-12-06 18:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-06 18:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 18:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-06 18:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-06 18:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-06 18:38:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-06 18:48:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-06 18:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-06 18:35:37 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement": "2024-12-06 18:42:19 +0000"
     },
     "done": true
   },
@@ -198,21 +456,15 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/tools/stone_axe": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 18:38:50 +0000"
+      "has_cobblestone": "2024-12-06 18:38:55 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 18:38:50 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/securitycraft/motion_activated_light": {
-    "criteria": {
-      "has_stick": "2024-12-06 18:36:28 +0000"
+      "has_planks": "2024-12-06 18:39:53 +0000"
     },
     "done": true
   },
@@ -222,27 +474,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2024-12-06 18:35:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2024-12-06 18:35:40 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 18:38:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-06 18:38:50 +0000"
+      "log_spam_fixer": "2024-12-06 18:48:50 +0000"
     },
     "done": false
   },
