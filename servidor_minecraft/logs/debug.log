@@ -6692,3 +6692,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Dec2024 17:34:34.416] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:spruce}
 [06Dec2024 17:34:34.416] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 3
 [06Dec2024 17:34:34.416] [Worker-Main-1/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JJOJxOPX1+Xek7+tfyk707
+[06Dec2024 17:38:50.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 17:38:50.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 17:42:02.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Set own game mode to Creative Mode]
+[06Dec2024 17:42:46.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Killed 25 entities]
+[06Dec2024 17:42:50.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Set own game mode to Survival Mode]
+[06Dec2024 17:43:08.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Killed 9 entities]
+[06Dec2024 17:43:50.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 17:43:50.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 17:44:44.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Gave 64 [Cobblestone] to TheProx_]
+[06Dec2024 17:45:41.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Gave 64 [Torch] to TheProx_]
+[06Dec2024 17:47:16.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Applied enchantment Efficiency V to TheProx_'s item]

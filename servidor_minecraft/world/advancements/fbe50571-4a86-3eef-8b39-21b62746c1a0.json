@@ -31,7 +31,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 17:33:50 +0000"
+      "log_spam_fixer": "2024-12-06 17:43:50 +0000"
     },
     "done": false
   },
@@ -74,6 +74,18 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-11-18 17:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
     },
     "done": true
   },
@@ -239,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-11-18 17:49:20 +0000"
@@ -254,6 +272,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-11-18 17:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
     },
     "done": true
   },
@@ -426,6 +450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-02 23:19:44 +0000"
@@ -474,6 +504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-18 17:56:15 +0000"
@@ -483,6 +519,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-18 17:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
     },
     "done": true
   },
@@ -666,6 +708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2024-12-02 18:28:22 +0000"
@@ -720,6 +768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-11-18 17:58:49 +0000"
@@ -756,6 +810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-11-18 17:49:20 +0000"
@@ -782,7 +842,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 17:33:50 +0000"
+      "log_spam_fixer": "2024-12-06 17:43:50 +0000"
     },
     "done": false
   },
@@ -905,7 +965,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 17:33:50 +0000"
+      "log_spam_fixer": "2024-12-06 17:43:50 +0000"
     },
     "done": false
   },
@@ -918,6 +978,18 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-11-18 18:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
     },
     "done": true
   },
@@ -939,6 +1011,12 @@
     },
     "done": true
   },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2024-12-06 17:35:42 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/food/glow_berry_juice": {
     "criteria": {
       "has_glow_berries": "2024-12-02 18:31:15 +0000"
@@ -954,6 +1032,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-11-18 18:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
     },
     "done": true
   },
@@ -983,7 +1067,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 17:33:50 +0000"
+      "log_spam_fixer": "2024-12-06 17:43:50 +0000"
     },
     "done": false
   },
@@ -1049,7 +1133,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 17:33:50 +0000"
+      "log_spam_fixer": "2024-12-06 17:43:50 +0000"
     },
     "done": false
   },
@@ -1125,6 +1209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2024-11-18 18:16:07 +0000"
@@ -1193,7 +1283,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 17:33:50 +0000"
+      "log_spam_fixer": "2024-12-06 17:43:50 +0000"
     },
     "done": false
   },
@@ -1461,6 +1551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-18 17:56:15 +0000"
@@ -1551,6 +1647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-18 17:55:22 +0000"
@@ -1596,6 +1698,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-02 18:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
     },
     "done": true
   },
@@ -1655,7 +1763,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 17:33:50 +0000"
+      "log_spam_fixer": "2024-12-06 17:43:50 +0000"
     },
     "done": false
   },
@@ -1679,9 +1787,15 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 17:33:50 +0000"
+      "log_spam_fixer": "2024-12-06 17:43:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
@@ -1711,6 +1825,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-11-18 18:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
     },
     "done": true
   },
@@ -1806,9 +1926,15 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 17:33:50 +0000"
+      "log_spam_fixer": "2024-12-06 17:43:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
@@ -1848,7 +1974,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 17:33:50 +0000"
+      "log_spam_fixer": "2024-12-06 17:43:50 +0000"
     },
     "done": false
   },
@@ -1878,7 +2004,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 17:33:50 +0000"
+      "log_spam_fixer": "2024-12-06 17:43:50 +0000"
     },
     "done": false
   },
@@ -1896,7 +2022,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-06 17:33:50 +0000"
+      "log_spam_fixer": "2024-12-06 17:43:50 +0000"
     },
     "done": false
   },
@@ -1969,6 +2095,12 @@
   "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2024-11-18 18:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-06 17:36:39 +0000"
     },
     "done": true
   },
