@@ -334,3 +334,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Dec2024 18:05:53.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheProx_ lost connection: Disconnected
 [06Dec2024 18:05:53.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheProx_ left the game
 [06Dec2024 18:05:53.356] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheProx_
+[06Dec2024 18:13:32.607] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4a3997f1
+[06Dec2024 18:13:32.615] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheProx_[/127.217.101.179:40331] logged in with entity id 11108 at (676.6999999880791, -50.0, 1079.1846201254145)
+[06Dec2024 18:13:32.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheProx_ joined the game
+[06Dec2024 18:13:32.645] [Server thread/INFO] [Jade/]: Syncing config to TheProx_ (fbe50571-4a86-3eef-8b39-21b62746c1a0)
+[06Dec2024 18:13:34.655] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheProx_ (18)
+[06Dec2024 18:13:34.656] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheProx_
+[06Dec2024 18:13:59.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[06Dec2024 18:13:59.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[06Dec2024 18:14:34.114] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[06Dec2024 18:14:35.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[06Dec2024 18:14:35.436] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheProx_ (fbe50571-4a86-3eef-8b39-21b62746c1a0) successfully connected to voice chat
