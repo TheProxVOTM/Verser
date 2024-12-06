@@ -322,3 +322,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Dec2024 17:58:24.720] [Server thread/INFO] [Jade/]: Syncing config to TheProx_ (fbe50571-4a86-3eef-8b39-21b62746c1a0)
 [06Dec2024 17:58:29.210] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheProx_ (18)
 [06Dec2024 17:58:29.211] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheProx_
+[06Dec2024 17:59:17.030] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[06Dec2024 17:59:18.036] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[06Dec2024 17:59:18.036] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheProx_ (fbe50571-4a86-3eef-8b39-21b62746c1a0) successfully connected to voice chat
+[06Dec2024 18:01:08.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Applied enchantment Fortune III to TheProx_'s item]
+[06Dec2024 18:01:09.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheProx_ has made the advancement [Diamonds!]
+[06Dec2024 18:02:29.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Gave 1 [Iron Pickaxe] to TheProx_]
+[06Dec2024 18:02:31.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Applied enchantment Fortune III to TheProx_'s item]
+[06Dec2024 18:02:37.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Applied enchantment Unbreaking III to TheProx_'s item]
+[06Dec2024 18:02:43.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Applied enchantment Efficiency V to TheProx_'s item]
+[06Dec2024 18:05:53.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheProx_ lost connection: Disconnected
+[06Dec2024 18:05:53.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheProx_ left the game
+[06Dec2024 18:05:53.356] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheProx_
