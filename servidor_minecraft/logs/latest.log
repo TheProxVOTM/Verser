@@ -345,3 +345,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06Dec2024 18:14:34.114] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fbe50571-4a86-3eef-8b39-21b62746c1a0
 [06Dec2024 18:14:35.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fbe50571-4a86-3eef-8b39-21b62746c1a0
 [06Dec2024 18:14:35.436] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheProx_ (fbe50571-4a86-3eef-8b39-21b62746c1a0) successfully connected to voice chat
+[06Dec2024 18:22:48.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Set own game mode to Creative Mode]
+[06Dec2024 18:23:08.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Set own game mode to Survival Mode]
+[06Dec2024 18:23:18.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Applied effect Instant Health to TheProx_]
+[06Dec2024 18:23:20.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Applied effect Instant Health to TheProx_]
+[06Dec2024 18:23:26.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Applied effect Instant Health to TheProx_]
+[06Dec2024 18:23:31.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Applied effect Instant Health to TheProx_]
+[06Dec2024 18:23:36.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Applied effect Regeneration to TheProx_]
+[06Dec2024 18:25:10.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Set own game mode to Creative Mode]
+[06Dec2024 18:25:39.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Set own game mode to Survival Mode]
+[06Dec2024 18:26:46.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Set TheProx_'s sanity to 100.0]
+[06Dec2024 18:27:01.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Applied effect Regeneration to TheProx_]
+[06Dec2024 18:30:22.951] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[06Dec2024 18:30:22.957] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7346b021[id=<null>,name=MeLlamanSebas,properties={},legacy=false] (/127.119.48.204:47769): Unexpected custom data from client
+[06Dec2024 18:30:23.008] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7346b021[id=<null>,name=MeLlamanSebas,properties={},legacy=false] (/127.119.48.204:47769) lost connection: Unexpected custom data from client
+[06Dec2024 18:34:41.405] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4e28626b
+[06Dec2024 18:34:41.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bautist_25[/127.187.14.160:46997] logged in with entity id 15283 at (87.5, 104.0, 231.5)
+[06Dec2024 18:34:41.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautist_25 joined the game
+[06Dec2024 18:34:41.649] [Server thread/INFO] [Jade/]: Syncing config to bautist_25 (6181406e-d6fc-3100-b7d3-41d7adb0f2f1)
+[06Dec2024 18:34:41.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautist_25 has made the advancement [Ice and Fire]
+[06Dec2024 18:34:43.465] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bautist_25 (18)
+[06Dec2024 18:34:43.467] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bautist_25
+[06Dec2024 18:35:03.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6181406e-d6fc-3100-b7d3-41d7adb0f2f1
+[06Dec2024 18:35:04.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6181406e-d6fc-3100-b7d3-41d7adb0f2f1
+[06Dec2024 18:35:04.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bautist_25 (6181406e-d6fc-3100-b7d3-41d7adb0f2f1) successfully connected to voice chat
+[06Dec2024 18:36:14.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Teleported bautist_25 to TheProx_]
+[06Dec2024 18:38:07.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Teleported bautist_25 to TheProx_]
+[06Dec2024 18:38:55.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bautist_25 has made the advancement [Stone Age]
