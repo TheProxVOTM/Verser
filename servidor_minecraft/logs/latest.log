@@ -287,3 +287,29 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Dec2024 22:58:16.175] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'operating-joy.gl.at.ply.gg:1663'
 [23Dec2024 22:58:16.176] [Server thread/WARN] [ModernFix/]: Dedicated server took 71.866 seconds to load
 [23Dec2024 22:58:16.188] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 23068
+[23Dec2024 23:20:49.678] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39e68e08
+[23Dec2024 23:20:49.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheProx_[/127.217.101.179:37659] logged in with entity id 165 at (539.1646231389412, 62.0, 1084.0664366073022)
+[23Dec2024 23:20:49.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheProx_ joined the game
+[23Dec2024 23:20:50.000] [Server thread/INFO] [Jade/]: Syncing config to TheProx_ (fbe50571-4a86-3eef-8b39-21b62746c1a0)
+[23Dec2024 23:20:53.941] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheProx_ (18)
+[23Dec2024 23:20:53.943] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheProx_
+[23Dec2024 23:21:31.119] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[23Dec2024 23:21:32.121] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[23Dec2024 23:21:32.123] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheProx_ (fbe50571-4a86-3eef-8b39-21b62746c1a0) successfully connected to voice chat
+[23Dec2024 23:27:44.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fbe50571-4a86-3eef-8b39-21b62746c1a0 timed out
+[23Dec2024 23:27:44.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player TheProx_
+[23Dec2024 23:27:44.153] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to TheProx_
+[23Dec2024 23:27:44.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheProx_ lost connection: Disconnected
+[23Dec2024 23:27:44.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheProx_ left the game
+[23Dec2024 23:27:44.299] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheProx_
+[23Dec2024 23:27:48.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Dec2024 23:27:48.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Dec2024 23:27:48.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Dec2024 23:27:48.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Dec2024 23:27:48.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Dec2024 23:27:49.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Dec2024 23:27:49.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Dec2024 23:27:49.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Dec2024 23:27:49.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Dec2024 23:27:49.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Dec2024 23:27:49.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
