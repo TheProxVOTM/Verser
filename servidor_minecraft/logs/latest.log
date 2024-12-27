@@ -3836,3 +3836,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Dec2024 23:41:18.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fbe50571-4a86-3eef-8b39-21b62746c1a0
 [27Dec2024 23:41:18.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheProx_ (fbe50571-4a86-3eef-8b39-21b62746c1a0) successfully connected to voice chat
 [27Dec2024 23:41:53.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Set the weather to clear]
+[27Dec2024 23:43:09.896] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fbe50571-4a86-3eef-8b39-21b62746c1a0 timed out
+[27Dec2024 23:43:09.897] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player TheProx_
+[27Dec2024 23:43:09.898] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to TheProx_
+[27Dec2024 23:43:11.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[27Dec2024 23:43:12.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[27Dec2024 23:43:12.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheProx_ (fbe50571-4a86-3eef-8b39-21b62746c1a0) successfully connected to voice chat
+[27Dec2024 23:43:30.004] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fbe50571-4a86-3eef-8b39-21b62746c1a0 timed out
+[27Dec2024 23:43:30.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player TheProx_
+[27Dec2024 23:43:30.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to TheProx_
+[27Dec2024 23:43:31.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[27Dec2024 23:43:32.420] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[27Dec2024 23:43:32.420] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheProx_ (fbe50571-4a86-3eef-8b39-21b62746c1a0) successfully connected to voice chat
+[27Dec2024 23:44:02.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheProx_ lost connection: Disconnected
+[27Dec2024 23:44:02.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheProx_ left the game
+[27Dec2024 23:44:02.628] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheProx_
