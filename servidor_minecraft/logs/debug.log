@@ -11037,3 +11037,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Dec2024 23:21:23.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheProx_ left the game
 [27Dec2024 23:21:23.985] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of TheProx_
 [27Dec2024 23:21:23.985] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheProx_
+[27Dec2024 23:23:34.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 23:23:34.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 23:28:34.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 23:28:34.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
