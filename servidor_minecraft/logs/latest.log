@@ -1279,3 +1279,126 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Dec2024 22:44:47.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheProx_ lost connection: Disconnected
 [27Dec2024 22:44:47.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheProx_ left the game
 [27Dec2024 22:44:47.487] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheProx_
+[27Dec2024 23:04:09.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Dec2024 23:04:09.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[27Dec2024 23:04:23.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloading!
+[27Dec2024 23:04:23.397] [Server thread/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
+[27Dec2024 23:04:23.578] [Worker-ResourceReload-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [minecraft:raw_cod (from mutantmore-1.19.2-early_access-2.0.0.jar)] as it is missing following references: minecraft:raw_cod (from mutantmore-1.19.2-early_access-2.0.0.jar)
+[27Dec2024 23:04:23.581] [Worker-ResourceReload-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [enlightened_end:starsteel_pickaxe (from enlightend-5.0.12-1.19.2.jar), enlightened_end:tenebrium_pickaxe (from enlightend-5.0.12-1.19.2.jar)] as it is missing following references: enlightened_end:starsteel_pickaxe (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:tenebrium_pickaxe (from enlightend-5.0.12-1.19.2.jar)
+[27Dec2024 23:04:23.583] [Worker-ResourceReload-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [enlightened_end:cerulean_stalk_block (from enlightend-5.0.12-1.19.2.jar)] as it is missing following references: enlightened_end:cerulean_stalk_block (from enlightend-5.0.12-1.19.2.jar)
+[27Dec2024 23:04:23.601] [Worker-ResourceReload-0/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [enlightened_end:enduring_waste (from enlightend-5.0.12-1.19.2.jar), enlightened_end:voidsteel_block (from enlightend-5.0.12-1.19.2.jar), enlightened_end:adamantite_plate_block (from enlightend-5.0.12-1.19.2.jar), enlightened_end:adamantite_glass (from enlightend-5.0.12-1.19.2.jar), enlightened_end:adamantite_glass_pane (from enlightend-5.0.12-1.19.2.jar)] as it is missing following references: enlightened_end:enduring_waste (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:voidsteel_block (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:adamantite_plate_block (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:adamantite_glass (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:adamantite_glass_pane (from enlightend-5.0.12-1.19.2.jar)
+[27Dec2024 23:04:23.607] [Worker-ResourceReload-0/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [enlightened_end:chiseled_purpur (from enlightend-5.0.12-1.19.2.jar), enlightened_end:purpur_lamp (from enlightend-5.0.12-1.19.2.jar), enlightened_end:infested_end_stone (from enlightend-5.0.12-1.19.2.jar), enlightened_end:congealed_eylium (from enlightend-5.0.12-1.19.2.jar), enlightened_end:nullstone (from enlightend-5.0.12-1.19.2.jar), enlightened_end:nullstone_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:nullstone_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:nullstone_wall (from enlightend-5.0.12-1.19.2.jar), enlightened_end:polished_nullstone (from enlightend-5.0.12-1.19.2.jar), enlightened_end:polished_nullstone_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:polished_nullstone_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:polished_nullstone_wall (from enlightend-5.0.12-1.19.2.jar), enlightened_end:cracked_nullstone_bricks (from enlightend-5.0.12-1.19.2.jar), enlightened_end:nullstone_bricks (from enlightend-5.0.12-1.19.2.jar), enlightened_end:nullstone_brick_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:nullstone_brick_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:nullstone_brick_wall (from enlightend-5.0.12-1.19.2.jar), enlightened_end:nullstone_pillar (from enlightend-5.0.12-1.19.2.jar), enlightened_end:chiseled_nullstone (from enlightend-5.0.12-1.19.2.jar), enlightened_end:nullstone_lamp (from enlightend-5.0.12-1.19.2.jar), enlightened_end:voikrust_lamp (from enlightend-5.0.12-1.19.2.jar)] as it is missing following references: enlightened_end:chiseled_purpur (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:purpur_lamp (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:infested_end_stone (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:congealed_eylium (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:nullstone (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:nullstone_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:nullstone_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:nullstone_wall (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:polished_nullstone (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:polished_nullstone_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:polished_nullstone_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:polished_nullstone_wall (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:cracked_nullstone_bricks (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:nullstone_bricks (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:nullstone_brick_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:nullstone_brick_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:nullstone_brick_wall (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:nullstone_pillar (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:chiseled_nullstone (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:nullstone_lamp (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:voikrust_lamp (from enlightend-5.0.12-1.19.2.jar)
+[27Dec2024 23:04:23.633] [Worker-ResourceReload-0/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [enlightened_end:waxed_bismuth_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:waxed_bismuth_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:infernal_bismuth_sheets (from enlightend-5.0.12-1.19.2.jar), enlightened_end:infernal_bismuth_sheet_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:infernal_bismuth_sheet_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:warm_bismuth_sheets (from enlightend-5.0.12-1.19.2.jar), enlightened_end:warm_bismuth_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:warm_bismuth_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:temperate_bismuth_sheets (from enlightend-5.0.12-1.19.2.jar), enlightened_end:temperate_bismuth_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:temperate_bismuth_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:frosty_bismuth_sheets (from enlightend-5.0.12-1.19.2.jar), enlightened_end:frosty_bismuth_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:frosty_bismuth_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:aquatic_bismuth_sheets (from enlightend-5.0.12-1.19.2.jar), enlightened_end:aquatic_bismuth_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:aquatic_bismuth_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:dark_bismuth_sheets (from enlightend-5.0.12-1.19.2.jar), enlightened_end:dark_bismuth_sheet_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:dark_bismuth_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:nebulous_bismuth_sheets (from enlightend-5.0.12-1.19.2.jar), enlightened_end:nebulous_bismuth_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:nebulous_bismuth_sheet_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:prismatic_bismuth_sheets (from enlightend-5.0.12-1.19.2.jar), enlightened_end:prismatic_bismuth_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:prismatic_bismuth_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:repulsium_block (from enlightend-5.0.12-1.19.2.jar), enlightened_end:repulsium_cluster (from enlightend-5.0.12-1.19.2.jar), enlightened_end:atractonite_block (from enlightend-5.0.12-1.19.2.jar), enlightened_end:atractonite_cluster (from enlightend-5.0.12-1.19.2.jar)] as it is missing following references: enlightened_end:waxed_bismuth_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:waxed_bismuth_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:infernal_bismuth_sheets (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:infernal_bismuth_sheet_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:infernal_bismuth_sheet_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:warm_bismuth_sheets (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:warm_bismuth_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:warm_bismuth_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:temperate_bismuth_sheets (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:temperate_bismuth_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:temperate_bismuth_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:frosty_bismuth_sheets (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:frosty_bismuth_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:frosty_bismuth_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:aquatic_bismuth_sheets (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:aquatic_bismuth_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:aquatic_bismuth_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:dark_bismuth_sheets (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:dark_bismuth_sheet_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:dark_bismuth_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:nebulous_bismuth_sheets (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:nebulous_bismuth_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:nebulous_bismuth_sheet_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:prismatic_bismuth_sheets (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:prismatic_bismuth_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:prismatic_bismuth_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:repulsium_block (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:repulsium_cluster (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:atractonite_block (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:atractonite_cluster (from enlightend-5.0.12-1.19.2.jar)
+[27Dec2024 23:04:23.643] [Worker-ResourceReload-0/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [enlightened_end:malachite_pillar (from enlightend-5.0.12-1.19.2.jar), enlightened_end:smooth_malachite (from enlightend-5.0.12-1.19.2.jar), enlightened_end:smooth_malachite_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:smooth_malachite_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:smooth_malachite_wall (from enlightend-5.0.12-1.19.2.jar), enlightened_end:voikrust (from enlightend-5.0.12-1.19.2.jar), enlightened_end:voikrust_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:voikrust_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:voikrust_pressure_plate (from enlightend-5.0.12-1.19.2.jar), enlightened_end:voikrust_button (from enlightend-5.0.12-1.19.2.jar), enlightened_end:voikrust_wall (from enlightend-5.0.12-1.19.2.jar), enlightened_end:polished_voikrust (from enlightend-5.0.12-1.19.2.jar), enlightened_end:polished_voikrust_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:polished_voikrust_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:polished_voikrust_wall (from enlightend-5.0.12-1.19.2.jar), enlightened_end:voikrust_bricks (from enlightend-5.0.12-1.19.2.jar), enlightened_end:voikrust_brick_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:voikrust_brick_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:voikrust_brick_wall (from enlightend-5.0.12-1.19.2.jar), enlightened_end:chiseled_voikrust (from enlightend-5.0.12-1.19.2.jar), enlightened_end:cracked_voikrust_bricks (from enlightend-5.0.12-1.19.2.jar), enlightened_end:voikrust_pillar (from enlightend-5.0.12-1.19.2.jar), enlightened_end:mossy_voikrust (from enlightend-5.0.12-1.19.2.jar), enlightened_end:mossy_voikrust_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:mossy_voikrust_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:mossy_voikrust_wall (from enlightend-5.0.12-1.19.2.jar), enlightened_end:mossy_voikrust_bricks (from enlightend-5.0.12-1.19.2.jar), enlightened_end:mossy_voikrust_brick_stairs (from enlightend-5.0.12-1.19.2.jar), enlightened_end:mossy_voikrust_brick_slab (from enlightend-5.0.12-1.19.2.jar), enlightened_end:mossy_voikrust_brick_wall (from enlightend-5.0.12-1.19.2.jar), enlightened_end:end_biome_placer (from enlightend-5.0.12-1.19.2.jar), enlightened_end:transitioning_end_portal (from enlightend-5.0.12-1.19.2.jar), enlightened_end:biome_replace_block (from enlightend-5.0.12-1.19.2.jar), enlightened_end:biome_replace_chance (from enlightend-5.0.12-1.19.2.jar), enlightened_end:enderneath_tunnel (from enlightend-5.0.12-1.19.2.jar), enlightened_end:ennegel_hang_generate (from enlightend-5.0.12-1.19.2.jar), enlightened_end:enderneath_replace (from enlightend-5.0.12-1.19.2.jar), enlightened_end:enderneath_replace_chance (from enlightend-5.0.12-1.19.2.jar)] as it is missing following references: enlightened_end:malachite_pillar (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:smooth_malachite (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:smooth_malachite_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:smooth_malachite_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:smooth_malachite_wall (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:voikrust (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:voikrust_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:voikrust_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:voikrust_pressure_plate (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:voikrust_button (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:voikrust_wall (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:polished_voikrust (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:polished_voikrust_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:polished_voikrust_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:polished_voikrust_wall (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:voikrust_bricks (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:voikrust_brick_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:voikrust_brick_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:voikrust_brick_wall (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:chiseled_voikrust (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:cracked_voikrust_bricks (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:voikrust_pillar (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:mossy_voikrust (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:mossy_voikrust_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:mossy_voikrust_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:mossy_voikrust_wall (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:mossy_voikrust_bricks (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:mossy_voikrust_brick_stairs (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:mossy_voikrust_brick_slab (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:mossy_voikrust_brick_wall (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:end_biome_placer (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:transitioning_end_portal (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:biome_replace_block (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:biome_replace_chance (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:enderneath_tunnel (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:ennegel_hang_generate (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:enderneath_replace (from enlightend-5.0.12-1.19.2.jar), 
+	enlightened_end:enderneath_replace_chance (from enlightend-5.0.12-1.19.2.jar)
+[27Dec2024 23:04:24.394] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe famersdelight:adamantite_knife_smithing: com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:iron_knife'
+[27Dec2024 23:04:24.410] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchouli:shapeless_book_recipe'
+[27Dec2024 23:04:24.412] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe enlightened_end:blast_void_shale_bismuth_ore: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:deleted_mod_element'
+[27Dec2024 23:04:24.423] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
+[27Dec2024 23:04:24.460] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe enlightened_end:smelt_void_shale_bismuth_ore: com.google.gson.JsonSyntaxException: Unknown item 'enlightened_end:deleted_mod_element'
+[27Dec2024 23:04:24.464] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 54 recipes
+[27Dec2024 23:04:24.464] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[27Dec2024 23:04:24.521] [Server thread/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table darkerdepths:blocks/grimestone_speleothem: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'darkerdepths:grimestone_speleothem'
+[27Dec2024 23:04:24.543] [Server thread/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table darkerdepths:blocks/celestine_crystal_block: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'darkerdepths:celestine_crystal_block'
+[27Dec2024 23:04:24.551] [Server thread/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table darkerdepths:blocks/shale_speleothem: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'darkerdepths:shale_speleothem'
+[27Dec2024 23:04:24.579] [Server thread/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table darkerdepths:blocks/grime_deepslate: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'darkerdepths:grime_deepslate'
+[27Dec2024 23:04:24.600] [Server thread/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table darkerdepths:blocks/lush_aridrock: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'darkerdepths:lush_aridrock'
+[27Dec2024 23:04:24.607] [Server thread/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table enlightened_end:entities/eidolon: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'enlightened_end:everglint'
+[27Dec2024 23:04:24.618] [Server thread/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table darkerdepths:blocks/limestone_speleothem: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'darkerdepths:limestone_speleothem'
+[27Dec2024 23:04:24.627] [Server thread/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table darkerdepths:blocks/aridrock_speleothem: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'darkerdepths:aridrock_speleothem'
+[27Dec2024 23:04:24.628] [Server thread/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table darkerdepths:blocks/detritus: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'darkerdepths:detritus'
+[27Dec2024 23:04:24.906] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2449 advancements
+[27Dec2024 23:04:24.910] [Server thread/INFO] [com.alexander.mutantmore.data.util.CodecJsonDataManager/]: Beginning loading of data for data loader: mutation_type
+[27Dec2024 23:04:24.911] [Server thread/ERROR] [com.alexander.mutantmore.data.util.CodecJsonDataManager/]: Failed to parse data json for mutantmore:mutant_jungle_zombie due to: Unknown registry key in ResourceKey[minecraft:root / minecraft:entity_type]: dungeons_mobs:jungle_zombie
+[27Dec2024 23:04:24.911] [Server thread/ERROR] [com.alexander.mutantmore.data.util.CodecJsonDataManager/]: Failed to parse data json for mutantmore:mutant_frozen_zombie due to: Unknown registry key in ResourceKey[minecraft:root / minecraft:entity_type]: dungeons_mobs:frozen_zombie
+[27Dec2024 23:04:24.912] [Server thread/INFO] [com.alexander.mutantmore.data.util.CodecJsonDataManager/]: Data loader for mutation_type loaded 13 jsons
