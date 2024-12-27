@@ -3826,3 +3826,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Dec2024 23:21:23.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheProx_ lost connection: Disconnected
 [27Dec2024 23:21:23.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheProx_ left the game
 [27Dec2024 23:21:23.985] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheProx_
+[27Dec2024 23:40:24.228] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@12e523d
+[27Dec2024 23:40:24.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheProx_[/127.151.26.57:40295] logged in with entity id 9444 at (8866.829809020377, 75.0, 9689.618215702823)
+[27Dec2024 23:40:24.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheProx_ joined the game
+[27Dec2024 23:40:24.272] [Server thread/INFO] [Jade/]: Syncing config to TheProx_ (fbe50571-4a86-3eef-8b39-21b62746c1a0)
+[27Dec2024 23:40:26.182] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheProx_ (18)
+[27Dec2024 23:40:26.183] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheProx_
+[27Dec2024 23:41:17.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[27Dec2024 23:41:18.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fbe50571-4a86-3eef-8b39-21b62746c1a0
+[27Dec2024 23:41:18.956] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheProx_ (fbe50571-4a86-3eef-8b39-21b62746c1a0) successfully connected to voice chat
+[27Dec2024 23:41:53.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheProx_: Set the weather to clear]
