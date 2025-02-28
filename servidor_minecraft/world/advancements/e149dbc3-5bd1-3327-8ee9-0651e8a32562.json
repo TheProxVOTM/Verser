@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-28 04:27:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-26 18:55:07 +0000"
@@ -511,7 +517,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-28 00:30:51 +0000"
+      "log_spam_fixer": "2025-02-28 04:29:10 +0000"
     },
     "done": false
   },
@@ -733,7 +739,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-28 00:30:51 +0000"
+      "log_spam_fixer": "2025-02-28 04:29:10 +0000"
     },
     "done": false
   },
@@ -997,7 +1003,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-02-28 00:30:51 +0000"
+      "log_spam_fixer": "2025-02-28 04:29:10 +0000"
     },
     "done": false
   },
@@ -1863,7 +1869,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-28 00:30:51 +0000"
+      "log_spam_fixer": "2025-02-28 04:29:10 +0000"
     },
     "done": false
   },
@@ -1905,7 +1911,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-02-28 00:30:51 +0000"
+      "log_spam_fixer": "2025-02-28 04:29:10 +0000"
     },
     "done": false
   },
@@ -2337,7 +2343,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-02-28 00:30:51 +0000"
+      "log_spam_fixer": "2025-02-28 04:29:10 +0000"
     },
     "done": false
   },
@@ -3500,7 +3506,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-28 00:30:51 +0000"
+      "log_spam_fixer": "2025-02-28 04:29:10 +0000"
     },
     "done": false
   },
@@ -3562,7 +3568,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-02-28 00:30:51 +0000"
+      "log_spam_fixer": "2025-02-28 04:29:10 +0000"
     },
     "done": false
   },
@@ -3742,7 +3748,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-28 00:30:51 +0000"
+      "log_spam_fixer": "2025-02-28 04:29:10 +0000"
     },
     "done": false
   },
@@ -4161,13 +4167,19 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-02-28 00:30:51 +0000"
+      "log_spam_fixer": "2025-02-28 04:29:10 +0000"
     },
     "done": false
   },
   "toughasnails:recipes/combat/wool_helmet": {
     "criteria": {
       "has_wool": "2025-02-25 02:19:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-28 04:12:29 +0000"
     },
     "done": true
   },
@@ -4743,7 +4755,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-02-28 00:30:51 +0000"
+      "log_spam_fixer": "2025-02-28 04:29:10 +0000"
     },
     "done": false
   },
@@ -4767,7 +4779,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-02-28 00:30:51 +0000"
+      "log_spam_fixer": "2025-02-28 04:29:10 +0000"
     },
     "done": false
   },
