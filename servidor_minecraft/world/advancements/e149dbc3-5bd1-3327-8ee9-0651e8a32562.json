@@ -517,7 +517,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 00:27:57 +0000"
+      "log_spam_fixer": "2025-03-01 03:46:27 +0000"
     },
     "done": false
   },
@@ -739,7 +739,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 00:27:57 +0000"
+      "log_spam_fixer": "2025-03-01 03:46:27 +0000"
     },
     "done": false
   },
@@ -1003,7 +1003,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 00:27:57 +0000"
+      "log_spam_fixer": "2025-03-01 03:46:27 +0000"
     },
     "done": false
   },
@@ -1869,7 +1869,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 00:27:57 +0000"
+      "log_spam_fixer": "2025-03-01 03:46:27 +0000"
     },
     "done": false
   },
@@ -1911,7 +1911,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 00:27:57 +0000"
+      "log_spam_fixer": "2025-03-01 03:46:27 +0000"
     },
     "done": false
   },
@@ -2343,7 +2343,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 00:27:57 +0000"
+      "log_spam_fixer": "2025-03-01 03:46:27 +0000"
     },
     "done": false
   },
@@ -3506,7 +3506,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 00:27:57 +0000"
+      "log_spam_fixer": "2025-03-01 03:46:27 +0000"
     },
     "done": false
   },
@@ -3568,7 +3568,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 00:27:57 +0000"
+      "log_spam_fixer": "2025-03-01 03:46:27 +0000"
     },
     "done": false
   },
@@ -3635,6 +3635,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-02-27 17:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-03-01 02:30:09 +0000"
     },
     "done": true
   },
@@ -3748,7 +3754,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 00:27:57 +0000"
+      "log_spam_fixer": "2025-03-01 03:46:27 +0000"
     },
     "done": false
   },
@@ -4167,7 +4173,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 00:27:57 +0000"
+      "log_spam_fixer": "2025-03-01 03:46:27 +0000"
     },
     "done": false
   },
@@ -4755,7 +4761,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 00:27:57 +0000"
+      "log_spam_fixer": "2025-03-01 03:46:27 +0000"
     },
     "done": false
   },
@@ -4779,7 +4785,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-03-01 00:27:57 +0000"
+      "log_spam_fixer": "2025-03-01 03:46:27 +0000"
     },
     "done": false
   },
