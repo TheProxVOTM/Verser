@@ -1,4 +1,6 @@
 {
+  "mekanism:data_provider": null,
+  "mekanism:entity_data_provider": null,
   "corpse:corpse": null,
   "minecraft:brewing_stand": null,
   "minecraft:beehive": null,
@@ -36,7 +38,5 @@
   "minecraft:fluid": null,
   "minecraft:energy_storage": null,
   "minecraft:progress": null,
-  "jade:object_name": null,
-  "mekanism:data_provider": null,
-  "mekanism:entity_data_provider": null
+  "jade:object_name": null
 }

@@ -1,11 +1,11 @@
 {
   "banPlayerAfterDeath": false,
   "bleeding": {
-    "bleedTime": 12000,
+    "bleedTime": 1200,
     "triggerForCreative": true,
     "bleedingMessage": true,
     "bleedingMessageTrackingOnly": true,
-    "shouldGlow": true,
+    "shouldGlow": false,
     "bleedingEffects": [
       {
         "effect": "minecraft:slowness",
