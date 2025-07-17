@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-17 20:18:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/light_toaster": {
     "criteria": {
       "has_iron_ingot": "2025-06-28 22:59:41 +0000"
@@ -200,6 +206,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-15 18:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-17 20:18:59 +0000"
     },
     "done": true
   },
@@ -584,6 +596,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/mason_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-15 18:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-17 20:18:59 +0000"
     },
     "done": true
   },
@@ -1087,6 +1105,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-07-17 20:18:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/brown_cooler": {
     "criteria": {
       "has_planks": "2025-06-28 22:17:52 +0000"
@@ -1539,6 +1563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-17 19:00:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-06-28 22:56:38 +0000"
@@ -1680,6 +1710,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-28 22:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-17 20:18:59 +0000"
     },
     "done": true
   },
@@ -2506,6 +2542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-17 20:18:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/black_trampoline": {
     "criteria": {
       "has_string": "2025-06-28 22:56:03 +0000"
@@ -2563,6 +2605,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-07-10 18:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-17 20:18:59 +0000"
     },
     "done": true
   },
@@ -3226,6 +3274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-17 20:18:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/warped_basin": {
     "criteria": {
       "has_iron_ingot": "2025-06-28 22:59:41 +0000"
@@ -3460,6 +3514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-17 20:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-28 23:01:37 +0000"
@@ -3663,8 +3723,10 @@
       "minecraft:blaze": "2025-07-14 01:29:50 +0000",
       "minecraft:pillager": "2025-07-15 17:50:53 +0000",
       "minecraft:skeleton": "2025-07-10 02:37:03 +0000",
+      "minecraft:ravager": "2025-07-17 20:14:05 +0000",
       "minecraft:ghast": "2025-07-15 18:16:54 +0000",
       "minecraft:hoglin": "2025-07-14 01:21:12 +0000",
+      "minecraft:vindicator": "2025-07-17 20:13:07 +0000",
       "minecraft:spider": "2025-06-28 23:02:20 +0000",
       "minecraft:creeper": "2025-06-28 22:23:54 +0000",
       "minecraft:zombified_piglin": "2025-07-15 18:17:02 +0000",
@@ -4169,6 +4231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-17 20:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-06-28 22:17:45 +0000"
@@ -4319,6 +4387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-17 20:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-06-28 22:17:59 +0000",
@@ -4372,6 +4446,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "beetroots": "2025-07-10 19:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-17 20:18:59 +0000"
     },
     "done": true
   },
@@ -4495,6 +4575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-07-17 19:00:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-10 19:53:46 +0000"
@@ -4585,6 +4671,12 @@
     },
     "done": true
   },
+  "mekanism:installer": {
+    "criteria": {
+      "installer": "2025-07-17 04:06:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-07-09 18:04:55 +0000"
@@ -4657,6 +4749,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-07-17 20:14:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 03:52:41 +0000"
@@ -4672,6 +4770,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-28 22:28:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-07-17 20:18:59 +0000"
     },
     "done": true
   },
@@ -4790,7 +4894,9 @@
       "melon_slice": "2025-07-10 04:01:46 +0000",
       "beetroot": "2025-07-10 19:34:00 +0000",
       "golden_carrot": "2025-07-15 18:07:18 +0000",
-      "cooked_chicken": "2025-07-12 05:11:24 +0000"
+      "cooked_chicken": "2025-07-12 05:11:24 +0000",
+      "cooked_salmon": "2025-07-17 03:01:16 +0000",
+      "carrot": "2025-07-17 19:11:37 +0000"
     },
     "done": false
   },
@@ -5880,6 +5986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-17 20:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-07-12 04:53:49 +0000"
@@ -5988,6 +6100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-17 20:18:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/lime_trampoline": {
     "criteria": {
       "has_string": "2025-06-28 22:56:03 +0000"
@@ -5998,6 +6116,7 @@
     "criteria": {
       "minecraft:white": "2025-07-10 04:00:32 +0000",
       "minecraft:jellie": "2025-07-10 04:00:29 +0000",
+      "minecraft:black": "2025-07-17 20:15:49 +0000",
       "minecraft:ragdoll": "2025-07-10 04:00:49 +0000"
     },
     "done": false
