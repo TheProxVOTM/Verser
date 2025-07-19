@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-19 20:12:43 +0000"
+    },
+    "done": true
+  },
   "mts:wrench": {
     "criteria": {
       "wrench": "2025-07-10 03:38:33 +0000"
@@ -2542,6 +2548,12 @@
     },
     "done": true
   },
+  "health_and_disease:pharmacy": {
+    "criteria": {
+      "pharmacy": "2025-07-19 19:35:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_lattice_fence": {
     "criteria": {
       "has_stick": "2025-06-28 22:17:45 +0000"
@@ -2563,6 +2575,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-07-14 01:55:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-19 20:12:43 +0000"
     },
     "done": true
   },
@@ -3727,6 +3745,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-06-28 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-19 19:24:29 +0000"
     },
     "done": true
   },
@@ -5019,6 +5043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-19 20:12:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/alarm": {
     "criteria": {
       "has_redstone": "2025-07-10 19:55:31 +0000"
@@ -5348,6 +5378,12 @@
   "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
     "criteria": {
       "has_deepslate_redstone_ore": "2025-07-13 02:44:22 +0000"
+    },
+    "done": true
+  },
+  "mekanism:stone_generator": {
+    "criteria": {
+      "upgrade_stone_generator": "2025-07-19 19:37:25 +0000"
     },
     "done": true
   },
