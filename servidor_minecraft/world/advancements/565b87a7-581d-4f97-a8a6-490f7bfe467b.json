@@ -1785,6 +1785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-01 19:19:50 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/tinkerer_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-15 18:47:58 +0000"
@@ -2229,6 +2235,12 @@
     },
     "done": true
   },
+  "mekanism:sna": {
+    "criteria": {
+      "solar_neutron_activator": "2025-08-01 18:23:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-06-28 22:56:03 +0000"
@@ -2635,6 +2647,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/orange_stool": {
     "criteria": {
       "has_planks": "2025-06-28 22:17:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_hedge": {
+    "criteria": {
+      "has_jungle_leaves": "2025-08-01 18:19:41 +0000"
     },
     "done": true
   },
@@ -3706,6 +3724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-01 19:16:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-15 18:32:23 +0000"
@@ -3931,6 +3955,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-07-10 19:39:13 +0000"
+    },
+    "done": true
+  },
+  "mekanism:polonium": {
+    "criteria": {
+      "pellet_polonium": "2025-08-01 18:53:06 +0000"
     },
     "done": true
   },
@@ -5187,6 +5217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-01 19:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-06-28 22:56:03 +0000"
@@ -5369,6 +5405,7 @@
       "melon_slice": "2025-07-10 04:01:46 +0000",
       "beetroot": "2025-07-10 19:34:00 +0000",
       "golden_carrot": "2025-07-15 18:07:18 +0000",
+      "cooked_rabbit": "2025-08-01 19:20:25 +0000",
       "cooked_chicken": "2025-07-12 05:11:24 +0000",
       "cooked_salmon": "2025-07-17 03:01:16 +0000",
       "carrot": "2025-07-17 19:11:37 +0000"
