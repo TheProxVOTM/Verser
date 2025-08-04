@@ -1411,6 +1411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-04 18:57:18 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/wool_boots": {
     "criteria": {
       "has_wool": "2025-06-28 22:58:19 +0000"
@@ -4300,6 +4306,7 @@
       "minecraft:piglin": "2025-07-14 01:17:58 +0000",
       "minecraft:enderman": "2025-07-14 02:09:40 +0000",
       "minecraft:zombie": "2025-06-28 22:16:31 +0000",
+      "minecraft:drowned": "2025-08-04 18:55:47 +0000",
       "minecraft:zombie_villager": "2025-07-12 03:07:44 +0000"
     },
     "done": false
@@ -4613,6 +4620,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/magenta_kitchen_storage_cabinet": {
     "criteria": {
       "has_magenta_dye": "2025-08-02 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-04 18:57:18 +0000"
     },
     "done": true
   },
@@ -5242,6 +5255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-08-04 18:56:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_storage_jar": {
     "criteria": {
       "has_glass": "2025-07-09 17:48:42 +0000"
@@ -5539,6 +5558,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-28 23:01:37 +0000"
+    },
+    "done": true
+  },
+  "mekanism:dictionary": {
+    "criteria": {
+      "dictionary": "2025-08-04 19:31:37 +0000"
     },
     "done": true
   },
@@ -6434,6 +6459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-08-04 18:56:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-09 17:48:42 +0000"
@@ -6575,6 +6606,12 @@
   "securitycraft:recipes/securitycraft/reinforced_mossy_stone_bricks_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-07-09 17:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-04 18:57:18 +0000"
     },
     "done": true
   },
