@@ -683,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:03:27 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/mason_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-15 18:47:58 +0000"
@@ -698,6 +704,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-07-19 05:05:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-08-16 04:11:54 +0000"
     },
     "done": true
   },
@@ -722,6 +734,12 @@
   "electrodynamics:ores": {
     "criteria": {
       "HasWoodenPickaxe": "2025-06-28 22:18:46 +0000"
+    },
+    "done": true
+  },
+  "mekanism:mekasuit": {
+    "criteria": {
+      "full_set": "2025-08-16 02:55:51 +0000"
     },
     "done": true
   },
@@ -1603,6 +1621,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-08-16 04:12:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/black_lamp": {
     "criteria": {
       "has_planks": "2025-06-28 22:17:52 +0000"
@@ -2017,6 +2041,12 @@
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-07-09 17:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-16 04:12:48 +0000"
     },
     "done": true
   },
@@ -2963,6 +2993,12 @@
     },
     "done": true
   },
+  "enlightened_end:upper_end_advancement": {
+    "criteria": {
+      "upper_end_advancement": "2025-08-16 04:16:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-15 18:47:58 +0000"
@@ -3245,6 +3281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:03:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-12 04:22:36 +0000"
@@ -3272,6 +3314,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-07-09 17:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-08-16 04:16:24 +0000"
     },
     "done": true
   },
@@ -3443,6 +3491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-08-16 04:12:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-07-11 01:18:23 +0000"
@@ -3476,6 +3530,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-07-12 04:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-16 04:12:48 +0000"
     },
     "done": true
   },
@@ -3929,6 +3989,12 @@
     },
     "done": true
   },
+  "enlightened_end:enderstride_advancement": {
+    "criteria": {
+      "enderstride_advancement": "2025-08-16 04:10:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/yellow_cooler": {
     "criteria": {
       "has_planks": "2025-06-28 22:17:52 +0000"
@@ -3995,6 +4061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:03:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/light_gray_cooler": {
     "criteria": {
       "has_planks": "2025-06-28 22:17:52 +0000"
@@ -4022,6 +4094,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-06-28 22:59:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-08-16 04:08:58 +0000"
     },
     "done": true
   },
@@ -4094,6 +4172,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 03:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:03:27 +0000"
     },
     "done": true
   },
@@ -4326,6 +4410,7 @@
       "minecraft:creeper": "2025-06-28 22:23:54 +0000",
       "minecraft:zombified_piglin": "2025-07-15 18:17:02 +0000",
       "minecraft:witch": "2025-07-10 19:52:09 +0000",
+      "minecraft:ender_dragon": "2025-08-16 04:11:54 +0000",
       "minecraft:cave_spider": "2025-06-28 22:56:02 +0000",
       "minecraft:piglin": "2025-07-14 01:17:58 +0000",
       "minecraft:enderman": "2025-07-14 02:09:40 +0000",
@@ -4503,6 +4588,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-08-16 04:09:00 +0000"
+    },
+    "done": true
+  },
   "mts:ticket": {
     "criteria": {
       "ticket": "2025-07-10 03:39:48 +0000"
@@ -4590,6 +4681,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-07-14 01:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-08-16 04:09:49 +0000"
     },
     "done": true
   },
@@ -4755,6 +4852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-08-16 04:08:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_basin": {
     "criteria": {
       "has_iron_ingot": "2025-06-28 22:59:41 +0000"
@@ -4842,6 +4945,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/blue_kitchen_cabinetry": {
     "criteria": {
       "has_blue_dye": "2025-07-19 04:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:03:27 +0000"
     },
     "done": true
   },
@@ -5098,6 +5207,7 @@
       "minecraft:lush_caves": "2025-06-28 22:32:09 +0000",
       "minecraft:desert": "2025-07-09 17:32:49 +0000",
       "minecraft:jungle": "2025-07-10 03:36:02 +0000",
+      "minecraft:ocean": "2025-08-16 04:06:23 +0000",
       "minecraft:warm_ocean": "2025-07-10 19:16:13 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-28 22:15:21 +0000",
       "minecraft:savanna": "2025-07-09 17:32:40 +0000",
@@ -5732,6 +5842,7 @@
       "baked_potato": "2025-07-10 19:05:24 +0000",
       "beetroot_soup": "2025-07-15 18:25:28 +0000",
       "potato": "2025-07-19 04:57:43 +0000",
+      "mutton": "2025-08-16 03:48:49 +0000",
       "bread": "2025-07-09 17:40:24 +0000",
       "golden_apple": "2025-07-11 00:56:09 +0000",
       "rotten_flesh": "2025-06-28 22:57:23 +0000",
@@ -5989,6 +6100,12 @@
   "mekanism:configurator": {
     "criteria": {
       "configurator": "2025-07-14 02:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:03:27 +0000"
     },
     "done": true
   },
@@ -6250,6 +6367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-16 04:03:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/red_trampoline": {
     "criteria": {
       "has_string": "2025-06-28 22:56:03 +0000"
@@ -6457,6 +6580,18 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-11 01:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-16 04:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-16 04:12:48 +0000"
     },
     "done": true
   },
@@ -7045,6 +7180,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-28 23:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-08-16 04:09:49 +0000"
     },
     "done": true
   },
