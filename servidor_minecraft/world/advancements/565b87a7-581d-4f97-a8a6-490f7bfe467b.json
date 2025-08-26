@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-08-26 18:20:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/cyan_sofa": {
     "criteria": {
       "has_planks": "2025-06-28 22:17:52 +0000"
@@ -494,6 +500,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-15 18:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-08-26 18:20:35 +0000"
     },
     "done": true
   },
@@ -1441,6 +1453,12 @@
     },
     "done": true
   },
+  "mekanism:plutonium": {
+    "criteria": {
+      "pellet_plutonium": "2025-08-26 18:02:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/spruce_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-28 22:17:45 +0000"
@@ -2044,6 +2062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-26 18:20:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/purple_stool": {
     "criteria": {
       "has_planks": "2025-06-28 22:17:52 +0000"
@@ -2380,6 +2404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-26 18:20:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-28 23:01:37 +0000"
@@ -2533,6 +2563,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-07-09 17:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-08-26 18:20:35 +0000"
     },
     "done": true
   },
@@ -3053,6 +3089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-26 18:20:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_kitchen_drawer": {
     "criteria": {
       "has_acacia_planks": "2025-07-09 17:49:07 +0000"
@@ -3365,6 +3407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-26 18:20:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/magenta_cooler": {
     "criteria": {
       "has_planks": "2025-06-28 22:17:52 +0000"
@@ -3407,6 +3455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-08-26 18:20:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/dark_oak_bath": {
     "criteria": {
       "has_iron_ingot": "2025-06-28 22:59:41 +0000"
@@ -3434,6 +3488,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-07-10 19:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-26 18:20:35 +0000"
     },
     "done": true
   },
@@ -5276,6 +5336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-26 18:20:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-28 22:17:52 +0000"
@@ -5703,6 +5769,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_storage_jar": {
     "criteria": {
       "has_glass": "2025-07-09 17:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-08-26 18:20:35 +0000"
     },
     "done": true
   },
