@@ -1,0 +1,15 @@
+
+[maxdurability]
+	maxdurability = 2000.0
+
+[gunsbreak]
+	gunsbreak = false
+
+[jamchance]
+	#Set to zero to stop jamming entirely
+	jamchance = 20.0
+
+[shotgunlist]
+	#Add the GunIds like this, tacz:db_short
+	shotgunlist = ["tacz:aa12", "tacz:db_short", "tacz:db_long"]
+
